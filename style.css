@@ -26,3 +26,17 @@ h3{
     margin-top:0;
     
 }
+button, .copy {
+    height:40px;
+    border-radius: 25px;
+    background: #275efe;
+    color:white;
+    font-weight:bold;
+    border:none;
+    width:6em;
+    font-size: 1em;
+}
+
+button:hover{
+    background:darkblue;
+}
