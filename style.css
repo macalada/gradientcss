@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&family=Hind+Madurai:wght@500&display=swap');
+
+body{
+    text-align: center;
+    
+    color:black;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+    margin-top: 10%;
+    font-family: 'Hind Madurai', sans-serif;   
+}
+
+h1 {
+    width:100%;
+    margin-bottom:3%;
+    font-size: 4em;
+    font-family: 'Rampart One',cursive, sans-serif;
+    
+    
+}
+
+
+h3{ 
+    text-transform: none;
+    letter-spacing: 0.1em;
+    margin-top:0;
+    
+}
